@@ -37,7 +37,7 @@ The idea was simple: transform a piece of IKEA furniture into a fully functional
 2. **Installing the Rack Rails:**  
    I mounted the [12U Vertical Server Rack Rails](https://amzn.to/3VlM4mu) inside the frame using [corner brace brackets](https://amzn.to/3D0lHwc) for added stability. These rails allow me to mount standard 19-inch rack equipment securely.
 
-3. **Adding Cooling:**  
+3. **Adding Cooling:** [Project link](Projects/CabinetFans/README.md)  
    To ensure proper airflow, I installed [4x 120mm AC-powered fans](https://amzn.to/3B1EDtV) and used a custom 3D-printed [fan shroud](Projects/CabinetFans/README.md) to channel airflow effectively. This setup keeps the hardware cool while running efficiently.
 
 4. **Power Management:**  
