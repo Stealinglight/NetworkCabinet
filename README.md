@@ -57,8 +57,8 @@ The finished cabinet is clean, compact, and fully functional. It fits perfectly 
   - [Unfi Flex mini 2.5G](https://store.ui.com/us/en/category/all-switching/products/usw-flex-2-5g-5)
   - [STL for rack mount](https://www.printables.com/model/1032217-ubiquiti-unifi-usw-flex-mini-25g-5-19-inch-modular)
 - Servers or Clusters
-  - [Lenovo M920q Proxmox host](./Projects/Lenovo%20M920q/README.md)
-  - [Dell 3080 Micros (Proxmox nodes)](./Projects/Dell%203080%20micros/README.md)
+  - Lenovo M920q Proxmox host [Project link](./Projects/Lenovo%20M920q/README.md)
+  - Dell 3080 Micros (Proxmox nodes) [Project link](./Projects/Dell%203080%20micros/README.md)
 - Reolink NVR: RLN8-410-White
   - [STL for rack mount](https://makerworld.com/en/models/862135#profileId-812635)
   - [Amazon Link](https://amzn.to/4g2nuPL)
