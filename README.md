@@ -70,6 +70,7 @@ The finished cabinet is clean, compact, and fully functional. It fits perfectly 
 ![alt text](Assets/Media/Cabinet/IMG_2553.jpeg)
 ![alt text](Assets/Media/Cabinet/IMG_2554.jpeg)
 ![alt text](Assets/Media/Cabinet/IMG_2564.jpeg)
+![alt text](Assets/Media/Cabinet/IMG_2924.jpeg)
 
 <!-- - [Photo of the BESTÅ frame during assembly]
 - [Photo of rack rails installed]

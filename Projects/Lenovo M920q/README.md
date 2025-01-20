@@ -35,9 +35,11 @@ The custom 3D-printed PCIe card cover and rack mount not only keep everything ti
 
 ### **Photos of the Build**
 
-- ![M920q with the Intel x540 installed](../../Assets/Media/M920q/IMG_2566.jpeg)
-- ![3D-Printed PCIe Card Cover](../../Assets/Media/M920q/PCIe_Cover.jpeg)
-- ![Rack-Mounted M920q in the Cabinet](../../Assets/Media/M920q/Rack_Mounted.jpeg)
+![M920q with the Intel x540 installed | 3D-Printed PCIe Card Cover](../../Assets/Media/M920q/IMG_2566.jpeg)
+![3D-Printed Case](../../Assets/Media/M920q/IMG_2912.jpeg)
+![Wired up](../../Assets/Media/M920q/IMG_2911.jpeg)
+![Rack-Mounted M920q in the Cabinet](../../Assets/Media/M920q/IMG_2914.jpeg)
+![Setup Clusters](../../Assets/Media/M920q/IMG_2920.jpeg)
 
 ---
 
